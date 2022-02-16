@@ -1,6 +1,6 @@
 # Testes automatizados no Backend
 
-Prática dos fundamentos de testes automatizados, que incluí:<br>
+Prática dos fundamentos de testes automatizados, que inclui:<br>
 TDD, JUnit com e sem Spring Boot, testar repositories, services e resources, testes de integração, mockar dependências com Mockito e MockBean e realizar assertions.<br>
 
 ## Competências:
